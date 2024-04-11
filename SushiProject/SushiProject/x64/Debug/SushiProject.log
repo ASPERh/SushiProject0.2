@@ -1,0 +1,3 @@
+﻿  SushiProject.cpp
+C:\Users\ASPER\source\repos\SushiProject\SushiProject\SushiProject.cpp(179,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SushiProject.vcxproj -> C:\Users\ASPER\source\repos\SushiProject\x64\Debug\SushiProject.exe
